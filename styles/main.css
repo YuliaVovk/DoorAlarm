@@ -1,0 +1,11 @@
+fieldset {
+  max-width: 480px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.result {
+  margin-top: 10px;
+}
